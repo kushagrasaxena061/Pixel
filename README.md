@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+npx convex dev
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+TODO: {/_ //change upper emoji _/} : find this and change emoji
+TODO: Pencil not working
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://liveblocks.io/dashboard/DSuvSoBTThijz3HyTlXLt/projects/66ff1b40c369430c3df2441a/apikeys
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+https://dashboard.convex.dev/t/kushagrasaxena061/miro-d8597/acoustic-buzzard-553/data?table=boards
 
-## Learn More
+https://dashboard.clerk.com/apps/app_2mvfOzSM10NI7bkM02T86isYUoQ/instances/ins_2mvfP0try5VUSvJV3j8FhxQHEgo/customization/avatars
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+http://localhost:3000
