@@ -49,7 +49,7 @@ export const OrgSidebar = () => {
                 </Button>
                 <Button variant={favorites ? "secondary" : "ghost"} asChild size="lg" className='font-normal justify-start px-2 w-full'>
                     <Link href={{
-                        pathname: "/",
+                        pathname: "https://pixel1.vercel.app/",
                         query: { favorites: true }
                     }}>
                         <Star className='h-4 w-4 mr-2' />
