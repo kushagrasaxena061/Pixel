@@ -7,7 +7,7 @@ import { CreateOrganization } from '@clerk/nextjs'
 export const EmptyOrg = () => {
   return (
     <div className='h-full flex flex-col items-center justify-center'>
-      <Image src="/logo.svg" alt="elements empty" height={200} width={200} />
+      <Image src="/logo.jpeg" alt="elements empty" height={200} width={200} />
       {/* //change upper emoji */}
       <h2 className='text-2xl font-semibold mt-6'>Welcome onboard </h2>
       <p className='text-muted-foreground text-sm mt-2'>Create an organization to get started</p>

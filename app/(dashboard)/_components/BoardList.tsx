@@ -9,6 +9,8 @@ import { api } from '@/convex/_generated/api';
 import { BoardCard } from './board-card';
 import { NewBoardButton } from './new-board-button';
 
+// NO CSS
+
 interface BoardListProps {
     orgId: string;
     query: {

@@ -39,14 +39,14 @@ export const Info = ({ boardId }: InfoProps) => {
     <div className="absolute top-2 left-2  bg-white rounded-md px-1.5 h-12 flex items-center shadow-md">
       <Button asChild className="px-2" variant="board">
         <Link href="/">
-          <Image src="/logo.svg" alt="Board Logo" height={40} width={40} />
+          <Image src="/logo.jpeg" alt="Board Logo" height={40} width={40} />
           <span
             className={cn(
               "font-semibold text-xl ml-2 text-black",
               font.className
             )}
           >
-            Miro
+            Pixel
           </span>
         </Link>
       </Button>
